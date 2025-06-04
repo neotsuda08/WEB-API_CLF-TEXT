@@ -10,9 +10,11 @@
 ## 🛠 Технологии
 - **Модель**: `distilbert-base-uncased-finetuned-sst-2-english` (Hugging Face)
 - **Фреймворк**: Gradio (UI + API)
-- **Дополнительно**: Docker (опционально)
 
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
+   git clone https://github.com/
+2. Установите все зависимости:
+   ```bash
+   pip install -r requirements.txt
