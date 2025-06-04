@@ -14,7 +14,7 @@
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/neotsuda08/WEB-API_CLF-TEXT.git
 2. Установите все зависимости:
    ```bash
    pip install -r requirements.txt
